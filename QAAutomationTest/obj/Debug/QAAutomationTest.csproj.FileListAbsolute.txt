@@ -1,0 +1,7 @@
+C:\Users\iEvgeniy\Desktop\РС\Проекты\QAAutomationTest\QAAutomationTest\bin\Debug\QAAutomationTest.exe.config
+C:\Users\iEvgeniy\Desktop\РС\Проекты\QAAutomationTest\QAAutomationTest\bin\Debug\QAAutomationTest.exe
+C:\Users\iEvgeniy\Desktop\РС\Проекты\QAAutomationTest\QAAutomationTest\bin\Debug\QAAutomationTest.pdb
+C:\Users\iEvgeniy\Desktop\РС\Проекты\QAAutomationTest\QAAutomationTest\obj\Debug\QAAutomationTest.csprojAssemblyReference.cache
+C:\Users\iEvgeniy\Desktop\РС\Проекты\QAAutomationTest\QAAutomationTest\obj\Debug\QAAutomationTest.csproj.CoreCompileInputs.cache
+C:\Users\iEvgeniy\Desktop\РС\Проекты\QAAutomationTest\QAAutomationTest\obj\Debug\QAAutomationTest.exe
+C:\Users\iEvgeniy\Desktop\РС\Проекты\QAAutomationTest\QAAutomationTest\obj\Debug\QAAutomationTest.pdb
